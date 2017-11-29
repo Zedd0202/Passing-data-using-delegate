@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ReceiveViewContoller: UIViewController {
+class ReceiveViewController: UIViewController {
     
     @IBOutlet weak var myLabel: UILabel!
     override func viewDidLoad() {
@@ -22,7 +22,7 @@ class ReceiveViewContoller: UIViewController {
     }
     
 }
-extension ReceiveViewContoller : SendDataDelegate{
+extension ReceiveViewController : SendDataDelegate{
     func sendData(data: String) {
         myLabel.text = data
     }

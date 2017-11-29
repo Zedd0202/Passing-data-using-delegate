@@ -48,10 +48,10 @@
             </objects>
             <point key="canvasLocation" x="2064.8000000000002" y="130.88455772113943"/>
         </scene>
-        <!--Receive View Contoller-->
+        <!--Receive View Controller-->
         <scene sceneID="ihb-UP-nuB">
             <objects>
-                <viewController id="tan-xK-UHq" customClass="ReceiveViewContoller" customModule="PassDataUsingDelegate" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="tan-xK-UHq" customClass="ReceiveViewController" customModule="PassDataUsingDelegate" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="MbG-vf-czi"/>
                         <viewControllerLayoutGuide type="bottom" id="FvS-BZ-lhJ"/>

@@ -12,7 +12,7 @@
 		14C8F4541FCD3D5000234397 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14C8F4521FCD3D5000234397 /* Main.storyboard */; };
 		14C8F4561FCD3D5000234397 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14C8F4551FCD3D5000234397 /* Assets.xcassets */; };
 		14C8F4591FCD3D5000234397 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14C8F4571FCD3D5000234397 /* LaunchScreen.storyboard */; };
-		14C8F4611FCD3DE200234397 /* ReceiveViewContoller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14C8F4601FCD3DE200234397 /* ReceiveViewContoller.swift */; };
+		14C8F4611FCD3DE200234397 /* ReceiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14C8F4601FCD3DE200234397 /* ReceiveViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		14C8F4551FCD3D5000234397 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		14C8F4581FCD3D5000234397 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		14C8F45A1FCD3D5000234397 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		14C8F4601FCD3DE200234397 /* ReceiveViewContoller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReceiveViewContoller.swift; sourceTree = "<group>"; };
+		14C8F4601FCD3DE200234397 /* ReceiveViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReceiveViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 			children = (
 				14C8F44E1FCD3D5000234397 /* AppDelegate.swift */,
 				14C8F4501FCD3D5000234397 /* SendViewController.swift */,
-				14C8F4601FCD3DE200234397 /* ReceiveViewContoller.swift */,
+				14C8F4601FCD3DE200234397 /* ReceiveViewController.swift */,
 				14C8F4521FCD3D5000234397 /* Main.storyboard */,
 				14C8F4551FCD3D5000234397 /* Assets.xcassets */,
 				14C8F4571FCD3D5000234397 /* LaunchScreen.storyboard */,
@@ -140,7 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14C8F4611FCD3DE200234397 /* ReceiveViewContoller.swift in Sources */,
+				14C8F4611FCD3DE200234397 /* ReceiveViewController.swift in Sources */,
 				14C8F4511FCD3D5000234397 /* SendViewController.swift in Sources */,
 				14C8F44F1FCD3D5000234397 /* AppDelegate.swift in Sources */,
 			);
